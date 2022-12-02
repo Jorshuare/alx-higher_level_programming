@@ -4,6 +4,7 @@ def print_arg(argv):
     n = len(argv) - 1
     if n == 0:
         print("{:d} argument.".format(n))
+        return
     else:
         if n == 1:
             print("{:d} argument:".format(n))
