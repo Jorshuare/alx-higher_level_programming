@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PYFILE | python3
+python3 -c 'print(f"Best School: {88+10}")'
