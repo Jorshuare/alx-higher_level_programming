@@ -1,9 +1,9 @@
 #!/usr/bin/pyhon3
-"""Define a class square"""
+"""Define a class Square."""
 
 
 class Square:
-    """Represent a square"""
+    """Represent a square."""
 
     def __init__(self, size):
         """Initialize a new square.
